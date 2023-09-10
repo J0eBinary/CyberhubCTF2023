@@ -1,0 +1,2 @@
+[EASY]
+Rotate it before it's destroyed.
